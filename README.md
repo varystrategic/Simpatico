@@ -1,4 +1,9 @@
 Simpatico
 =========
+jQuery plugin resizes images to fill or fit container element
 
-jQuery plugin to resize images to fill container.
+Example: http://codepen.io/andrewtibbetts/pen/HIAoF
+
+Version 0.1
+-----------
+Just getting it out there.
